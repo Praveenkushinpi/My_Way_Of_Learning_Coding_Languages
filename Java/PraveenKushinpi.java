@@ -72,7 +72,37 @@ System.out.println(~x); // -6
 System.out.println(x << 1); // 10
 System.out.println(x >> 1); // 2
 
-        
+//Assignment Operators
+
+
+x += 3; // x = x + 3
+System.out.println(x); // Outputs 8
+x -= 3; // x = x - 3
+System.out.println(x); // Outputs 5
+x *= 3; // x = x * 3
+System.out.println(x); // Outputs 15
+x /= 3; // x = x / 3
+System.out.println(x); // Outputs 5
+x %= 3; // x = x % 3
+System.out.println(x); // Outputs 2
+
+//Unary Operators
+System.out.println(x); // Outputs 2
+System.out.println(++x); // Outputs 3
+System.out.println(x); // Outputs 3
+System.out.println(x++); // Outputs 3
+System.out.println(x); // Outputs 4
+System.out.println(--x); // Outputs 3
+System.out.println(x); // Outputs 3
+
+
+//Ternary Operator
+int time = 20;
+String result = (time < 18) ? "Good day." : "Good evening.";
+
+        System.out.println(result);
+        System.out.println("Unary Operators :" + x + ++x + x++ + --x + x);
+        System.out.println("Assignment Operators :" + (x += 3) + (x -= 3) + (x *= 3) + (x /= 3) + (x %= 3));
         System.out.println("Bitwise Operators :" + (x & y) + (x | y) + (x ^ y) + (~x) + (x << 1) + (x >> 1));
         System.out.println("Relational(Coparison)Oerators :" + (x == y) + (x != y) + (x > y) + (x < y) + (x >= y) + (x <= y));
         System.out.println("Logical Operators :" + (x < 5 &&  x < 10) + (x < 5 || x < 4) + !(x < 5 && x < 10)); 
