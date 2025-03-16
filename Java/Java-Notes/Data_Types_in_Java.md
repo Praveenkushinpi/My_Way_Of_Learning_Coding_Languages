@@ -73,7 +73,7 @@ Each variable you declare **reserves memory** in RAM. The **larger the bit size*
 
 java
 
-CopyEdit
+
 
 `byte smallNum = 100;   // Uses 8 bits (1 byte) int bigNum = 100;      // Uses 32 bits (4 bytes)`
 
