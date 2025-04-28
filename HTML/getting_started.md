@@ -14,3 +14,5 @@ ______________________________________________________________________________
 
 ## to see the preview of our website download [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) which i personaly use 
 ![image](https://github.com/user-attachments/assets/765fbd8f-4f38-4005-912b-a0a6076937b9)
+
+# [NEXT PAGE ->](https://github.com/Praveenkushinpi/My_Way_Of_Learning_Coding_Languages/blob/main/HTML/Introduction_to_code.md)
