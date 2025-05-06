@@ -16,7 +16,7 @@
    ```
 3. `const` - moder, fixed value
    ```
-    const pi=3.14
+    const pi=3.14 
    // pi = 314159 ; Error ! you can't change a const value
     ```
  ## Variables Naming Rules
@@ -37,4 +37,10 @@
 
 . Using javascript keywords like `let` , ` if ` and `while`
 
-[Next ->](#)
+### Var vs Let in Javascript 
+. Var is globally scoped while let & Const are block scoped 
+. Var can be redeclared 
+. Let can not be redeclared
+
+
+[Next ->](https://github.com/Praveenkushinpi/My_Way_Of_Learning_Coding_Languages/blob/main/JavaScript/Data_Types.md)
