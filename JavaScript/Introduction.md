@@ -17,4 +17,4 @@
 ## by running command 
 ----->    ` node [name of js file ].js `
 
-[ Let's Start ->](#)
+[ Let's Start ->](https://github.com/Praveenkushinpi/My_Way_Of_Learning_Coding_Languages/blob/main/JavaScript/variables.md)
