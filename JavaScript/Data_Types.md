@@ -46,4 +46,4 @@ typeof function(){}   // "function"
 
 ```
 
-[Next Page](https://github.com/Praveenkushinpi/My_Way_Of_Learning_Coding_Languages/tree/main/JavaScript)
+[Next Page](https://github.com/Praveenkushinpi/My_Way_Of_Learning_Coding_Languages/tree/main/JavaScript/Conditional_statements.md)
