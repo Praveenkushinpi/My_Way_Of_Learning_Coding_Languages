@@ -43,3 +43,7 @@ typeof undefined      // "undefined"
 typeof {}             // "object"
 typeof []             // "object"
 typeof function(){}   // "function"
+
+```
+
+[Next Page](https://github.com/Praveenkushinpi/My_Way_Of_Learning_Coding_Languages/tree/main/JavaScript)
