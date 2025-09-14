@@ -1,0 +1,5 @@
+# PERSONAL PORTFOLIO
+so this is my personal protfolio site where i am linking all of my social media and there is not much to showcase right now but i will not stop learning and never will, i hope you too best of luck *this code may help you* 
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Blue%20Heart.webp" alt="Blue Heart" width="25" height="25" /> ありがとうございます <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Blue%20Heart.webp" alt="Blue Heart" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Blue%20Heart.webp" alt="Blue Heart" width="25" height="25" /> धन्यवाद  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Blue%20Heart.webp" alt="Blue Heart" width="25" height="25" />
